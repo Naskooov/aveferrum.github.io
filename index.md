@@ -1,4 +1,4 @@
-### {XSS PoC Payload }
+### {XSS PoC Payload}
 [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) : Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
 
 [JBroFuzz](https://www.owasp.org/index.php/JBroFuzz) : **Inactive** A web application fuzzer for requests being made over HTTP or HTTPS.
